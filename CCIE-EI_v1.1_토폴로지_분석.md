@@ -354,7 +354,7 @@
 6. **VPN Overlay 경로 손실** → RT Mismatch, BGP Next-Hop, MPLS Label
 7. **SDA Host Onboarding 실패** → ISE 인증, VXLAN Encap, LISP Registration
 
----
+--- 
 
 ## 7. 기술 영역 간 상호 연관성 (Cross-Domain)
 
