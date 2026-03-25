@@ -1,4 +1,4 @@
-# WOLF-LAB 토폴로지 분석 및 CCIE-EI v1.1 출제포인트
+토폴로지 분석 및 CCIE-EI v1.1 출제포인트
 
 ---
 
@@ -394,5 +394,4 @@
 | Troubleshooting | 10% | 48분 |
 
 ---
-
-> **Note**: 이 분석은 WOLF-LAB 토폴로지 이미지를 기반으로 작성되었으며, CCIE Enterprise Infrastructure v1.1 Blueprint에 매핑하였습니다. 실제 Lab 시나리오는 DOO(Deploy/Optimize/Operate) 섹션으로 구분되며, 각 섹션에서 위 기술들이 복합적으로 출제됩니다.
+ CCIE Enterprise Infrastructure v1.1 Blueprint에 매핑하였습니다. 실제 Lab 시나리오는 DOO(Deploy/Optimize/Operate) 섹션으로 구분되며, 각 섹션에서 위 기술들이 복합적으로 출제됩니다.
